@@ -1,5 +1,4 @@
 ## Hi there 👋, I'm Vaibhav Sehgal
-
 <!--
 **musketeer07/musketeer07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
@@ -13,7 +12,7 @@ I am a data engineer and analyst with a strong passion for transforming data int
 - Innovative data engineering and analytics projects.
 - Building interactive Power BI dashboards.
 ### 💬 Ask me about Data engineering, Cloud platform, Big data technologies, DSA Problems
-### 🌐 Know more about me: https://www.vaibhavsehgal.info
+### 🌐 Know more about me: [vaibhavsehgal.info](http://www.vaibhavsehgal.info)
 ### 📫 How to reach me
 - Email: [vaibhavsehgaljobs@gmail.com](mailto:vaibhavsehgaljobs@gmail.com)
 - LinkedIn: [Vaibhav Sehgal](https://www.linkedin.com/in/sehgalvaibhav)
