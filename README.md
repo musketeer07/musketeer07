@@ -6,9 +6,7 @@
 
 ### About Me
 
-I am a data engineer and analyst with a strong passion for transforming data into actionable insights to drive business success. With a Bachelor's degree in Computer Science & Engineering and a Master's degree in Applied Computer Science from Concordia University, I have developed a comprehensive skill set in data engineering and analytics.
-
-I am eager to apply my skills and experience to guide companies in leveraging data for strategic business decisions. Feel free to explore my projects and connect with me to discuss potential collaborations or share insights on the latest trends in data engineering and analytics.
+I am a data engineer and analyst with a strong passion for transforming data into actionable insights to drive business success. With a Master's degree in Applied Computer Science from Concordia University, I have developed a comprehensive skill set in data engineering and analytics. I am eager to apply my skills and experience to guide companies in leveraging data for strategic business decisions. Feel free to explore my projects and connect with me to discuss potential collaborations or share insights on the latest trends in data engineering and analytics.
 
 ### 🔭 I’m currently working on learning new technologies every day in the realm of data engineering.
 
@@ -19,11 +17,10 @@ I am eager to apply my skills and experience to guide companies in leveraging da
 ### 👯 I’m looking to collaborate on
 - Innovative data engineering and analytics projects.
 - Building interactive Power BI dashboards.
-
 ### 🤔 I’m looking for help with
 - Exploring new and efficient ways to leverage big data technologies for business insights.
-
 ### 💬 Ask me about Data engineering, Cloud platform, Big data technologies, DSA Problems
+### 🌐 Know more about me: https://www.vaibhavsehgal.info
 
 ### 📫 How to reach me
 - Email: [vaibhavsehgaljobs@gmail.com](mailto:vaibhavsehgaljobs@gmail.com)
